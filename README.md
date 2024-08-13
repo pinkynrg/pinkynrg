@@ -37,7 +37,7 @@ Then I'm your guy! Let's build something awesome together! 🌟
 [![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
-<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=6"/>
-<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical"/>
+<img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
+<img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=8"/>
+<img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical"/>
 Looking forward to hearing from you! 🙌
