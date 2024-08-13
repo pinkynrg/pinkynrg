@@ -30,7 +30,7 @@ Looking forward to hearing from you! 🙌
 
 ### 🚀 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescomeli/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fmeli)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7754093/francesco-meli)
 [![Wakatime](https://img.shields.io/badge/Wakatime-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@pinkynrg)
 [![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
 
