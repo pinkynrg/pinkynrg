@@ -30,8 +30,10 @@ Looking forward to hearing from you! 🙌
 
 ### 🚀 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescomeli/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/francescomeli)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/fmeli)
+[![Wakatime](https://img.shields.io/badge/Wakatime-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@pinkynrg)
 [![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
+
 
 ### 📊 GitHub Stats:
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
