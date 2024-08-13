@@ -38,6 +38,6 @@ Then I'm your guy! Let's build something awesome together! 🌟
 
 ### 📊 GitHub Stats:
 ![Francesco's GitHub stats](https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=francescomeli&layout=compact&theme=radical)
 
 Looking forward to hearing from you! 🙌
