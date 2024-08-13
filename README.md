@@ -39,5 +39,5 @@ Then I'm your guy! Let's build something awesome together! 🌟
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
 <img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=6"/>
-
+<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical"/>
 Looking forward to hearing from you! 🙌
