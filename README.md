@@ -37,11 +37,7 @@ Then I'm your guy! Let's build something awesome together! 🌟
 [![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
 
 ### 📊 GitHub Stats:
-<p align="center">
 <img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=20"/>
-</p>
+<img src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=6"/>
 
 Looking forward to hearing from you! 🙌
