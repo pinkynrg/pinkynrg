@@ -34,5 +34,10 @@ Then I'm your guy! Let's build something awesome together! 🌟
 ### 🚀 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescomeli/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/francescomeli)
+[![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
+
+### 📊 GitHub Stats:
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomeli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomeli&layout=compact&theme=radical)
 
 Looking forward to hearing from you! 🙌
