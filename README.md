@@ -37,4 +37,4 @@ Looking forward to hearing from you! 🙌
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=8"/>
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical"/>
-Looking forward to hearing from you! 🙌
+
