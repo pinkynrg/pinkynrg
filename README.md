@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Francesco Meli, a Full Stack Engineer! 🚀
+# Hey there! 👋 I'm Francesco!
 
 ### 👨‍💻 A Little About Me:
 I'm a **Passionate Web Developer** with over a decade of experience in both frontend and backend development. I've been working on everything from user-friendly interfaces to reliable backends, aiming to deliver high-quality web applications. 💪
