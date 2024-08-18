@@ -9,12 +9,12 @@ I'm a **Passionate Web Developer** with over a decade of experience in both fron
 - **Docker** 🐳: Ensuring consistency across environments.
 
 ### 🎯 What I Do:
-- Developing scalable web applications that meet real-world needs.
-- Building IoT data loggers that function efficiently. 🌐
+- Developing scalable web applications that meet real-world needs. 🌐
+- Building IoT data loggers that function efficiently. 📈
 - Leading frontend development with a focus on clean, maintainable code. 🚢
 - Creating innovative solutions for popular apps with an emphasis on usability. 💡
-- Managing smooth deployments with CI/CD pipelines.=
-
+- Managing smooth deployments with CI/CD pipelines. 🚀
+  
 ### 🤓 What I'm Looking For:
 I'm currently seeking **freelance projects** where I can apply my skills in web development. I'm particularly interested in opportunities that allow me to tackle new challenges and continue growing as a developer. 💻
 
