@@ -26,8 +26,8 @@ If you need someone who learns stubbornly and won't stop until the job is done, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmeli/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7754093/francesco-meli)
 [![Website](https://img.shields.io/badge/Website-francescomeli.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.francescomeli.com)
-[![Wakatime](https://img.shields.io/badge/Wakatime-blueviolet?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@pinkynrg)
+![Coding time](https://wakapi.francescomeli.com/api/badge/pinkynrg/interval:any?label=coding%20time)
 ### 📊 GitHub Stats:
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api?username=pinkynrg&show_icons=true&theme=radical&show=reviews"/>
 <img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/top-langs/?username=pinkynrg&layout=compact&theme=radical&langs_count=8"/>
-<img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical"/>
+<img width="500" src="https://github-readme-stats-git-master-francesco-melis-projects.vercel.app/api/wakatime/?username=pinkynrg&layout=compact&theme=radical&api_domain=wakapi.francescomeli.com"/>
